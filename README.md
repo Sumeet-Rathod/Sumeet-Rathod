@@ -1,106 +1,83 @@
 # Hi there, I'm Sumeet Rathod 👋
 
 <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=1E3A8A&center=true&vcenter=true&width=620&lines=iMCA+Graduate+%7C+Software+%26+AI+Systems+Engineer;Full-Stack+Web+%26+Multi-Tenant+SaaS+Architect;Python%2C+FastAPI%2C+React%2C+MongoDB+%26+Docker;Machine+Learning%2C+Prophet+%26+Computer+Vision" alt="Typing SVG" /></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=1E3A8A&center=true&vcenter=true&width=550&lines=MCA+Student+%40+GLS+University;Full-Stack+Developer+%26+RPA+Engineer;Python%2C+Flask%2C+UiPath+%26+Cloud+Enthusiast;Building+Scalable+Automated+Systems)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumeet-Rathod)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumeetrathod@example.com)
-
+  <p align="center">
+    <a href="https://github.com/Sumeet-Rathod"><img src="https://img.shields.io/badge/GitHub-Sumeet--Rathod-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:sumeetrathod@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
+  </p>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Pursuing **Integrated Master of Computer Applications (iMCA)** at **Faculty of Computer Applications & IT (FCAIT), GLS University**, Ahmedabad.
-- 💡 **Interests:** Enterprise Robotic Process Automation (RPA), Full-Stack Web Development, Intelligent Decision Systems, and API Integrations.
-- 🤖 **Specialization:** Architecting autonomous multi-robot software pipelines using **Python** and **UiPath Studio**.
-- 🛠️ **Current Focus:** Developing production-grade software solutions with modular architecture, robust data validation, and clean security practices.
+- 🎓 **Education:** Final-Year **Integrated Master of Computer Applications (iMCA)** at **Faculty of Computer Applications & IT (FCAIT), GLS University**, Ahmedabad.
+- 💡 **Core Expertise:** Production Full-Stack Development, Applied Machine Learning, Multi-Tenant SaaS Architecture, Computer Vision, and Enterprise RPA Automation.
+- 🚀 **Specialization:** Building high-throughput asynchronous backends (FastAPI, Motor/MongoDB, Celery, Redis), interactive reactive UIs (React 18, Vite), and continuous ML pipelines with automated feedback loops.
+- 🎯 **Career Goal:** Software Development Engineer (SDE) / Full-Stack AI Engineer architecting scalable, enterprise-grade cloud applications.
 - 📍 **Location:** Ahmedabad, Gujarat, India 🇮🇳
 
 ---
 
 ### 🛠️ Technical Stack & Tooling
 
-<div align="center">
-
-#### Programming & Scripting Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-#### Frameworks & Libraries
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-#### Automation & RPA
-![UiPath](https://img.shields.io/badge/UiPath%20Studio-FA4616?style=flat-square&logo=uipath&logoColor=white)
-![RPA](https://img.shields.io/badge/Robotic%20Process%20Automation-0052CC?style=flat-square&logo=robot&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-REST%20APIs-008080?style=flat-square)
-![OpenPyXL](https://img.shields.io/badge/Excel%20Automation-OpenPyXL-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-#### Databases & Developer Tools
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</div>
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Backend & APIs** | `Python 3.12+`, `FastAPI`, `Flask`, `Pydantic v2`, `RESTful APIs`, `JWT Auth`, `Bcrypt` |
+| **Frontend & UI** | `React 18`, `JavaScript (ES6+)`, `Vite`, `Tailwind CSS`, `HTML5 / CSS3`, `Recharts` |
+| **Databases & Cache** | `MongoDB (Motor Async)`, `SQLite`, `Redis`, `PostgreSQL`, `SQL Server` |
+| **AI / ML & Analytics** | `Scikit-learn (RandomForest)`, `Facebook Prophet`, `OpenCV (Aesthetics)`, `VADER NLP`, `SHAP`, `Pandas`, `NumPy` |
+| **DevOps & Architecture** | `Docker`, `Docker Compose`, `Celery Beat`, `Git / GitHub`, `Linux / PowerShell`, `Nginx` |
+| **Automation & RPA** | `UiPath Studio`, `OpenPyXL`, `Headless Automation`, `Robotic Process Automation` |
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Flagship & Featured Projects
 
-#### 🌟 [CareerFit Tracker - Full-Stack RPA Platform](https://github.com/Sumeet-Rathod/CareerFit-Tracker)
-> **Technologies:** `Python` • `Flask` • `UiPath Studio` • `SQLite` • `REST APIs` • `OpenPyXL`  
-> An enterprise-grade, multi-user Robotic Process Automation platform that automates job discovery, deterministic fit scoring (0–100 scale), application status tracking, and deadline alerts for university candidates.
-- Coordinates six autonomous software robots for harvesting, scoring, tracking, alerts, reporting, and digests.
-- Dual-portal interface: Candidate Job Discovery Portal & Restricted Placement Administration Console.
-- Formula-driven Excel trackers with data-validation dropdowns and live portal routing.
+#### 🌟 [ContentIQ](https://github.com/Sumeet-Rathod/ContentIQ) — AI Multi-Tenant Social Media Scheduling & Performance Platform
+> **Master's Capstone Project** • *Python 3.12 • FastAPI • React 18 • MongoDB • Redis • Celery • OpenCV • Facebook Prophet • Scikit-learn • Docker*
+- **14 Enterprise Modules:** Pre-publish engagement tier prediction, 24-hour best-time scheduling sweeps, and continuous ML model retraining on real-world post metrics (≥50 samples).
+- **Multi-Tenant Data Isolation:** Cryptographically isolated tenant workspaces with 3-tier Role-Based Access Control (`admin`, `editor`, `client`).
+- **Computer Vision & Forecasting:** OpenCV headless thumbnail aesthetics scoring (Laplacian sharpness, contrast, color saturation) and Facebook Prophet 30-day time-series follower forecasting with 80% confidence intervals.
+- **Enterprise Resilience:** Celery Beat background scheduler with sandbox publisher adapter, Redis caching with offline fallbacks, and 22/22 passing Pytest automated test cases.
 
-#### 🔐 [Secure Password Manager & Vault](https://github.com/Sumeet-Rathod)
-> **Technologies:** `Python` • `Cryptography` • `SQLite`  
-> A desktop credential manager implementing AES encryption, salted hashing, and clipboard memory safety for sensitive credentials.
+#### 🌟 [CareerFit-Tracker](https://github.com/Sumeet-Rathod/CareerFit-Tracker) — Enterprise RPA Job Harvesting & Fit Scoring Platform
+> *Python • Flask • UiPath Studio • SQLite • REST APIs • OpenPyXL*
+- Multi-user Robotic Process Automation platform that coordinates 6 autonomous software robots for job harvesting, deterministic fit scoring (0–100 scale), placement tracking, and deadline alerts.
+- Dual-portal architecture: Candidate Job Discovery Portal & Restricted Placement Administration Console.
+- Formula-driven Excel tracking engine with dynamic validation dropdowns and automated notification digests.
 
-#### 🌐 [Event Planner & Management Portal](https://github.com/Sumeet-Rathod)
-> **Technologies:** `JavaScript` • `HTML5 / CSS3` • `Responsive Design`  
-> An interactive web application for organizing, scheduling, and managing academic and institutional events.
+#### 🔐 Secure Password Manager & Vault
+> *Python • Cryptography • SQLite • Tkinter*
+- Desktop credential security vault implementing AES-256 / Fernet symmetric key encryption and PBKDF2 HMAC-SHA256 master key derivation.
+- Built-in password strength evaluation, automated entropy scoring, and secure local encrypted storage.
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 📊 GitHub Analytics & Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sumeet-Rathod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sumeet's GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeet-Rathod&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumeet-Rathod&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumeet-Rathod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeet-Rathod&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumeet-Rathod&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 🤝 Connect & Collaborate
 
-I am always open to discussing new projects, technical collaborations, and software engineering opportunities:
-- **LinkedIn:** [linkedin.com/in/sumeet-rathod](https://www.linkedin.com/in/)
-- **Email:** `sumeetrathod@example.com`
-- **Location:** Ahmedabad, Gujarat, India
+- 💼 **LinkedIn:** [linkedin.com/in/sumeet-rathod](https://www.linkedin.com/in/)
+- 📧 **Email:** [sumeetrathod@example.com](mailto:sumeetrathod@example.com)
+- 🌐 **GitHub:** [github.com/Sumeet-Rathod](https://github.com/Sumeet-Rathod)
+- 📍 **Location:** Ahmedabad, Gujarat, India
 
 <div align="center">
-  <sub>Designed &amp; Maintained by <b>Sumeet Rathod</b> &bull; Built with ❤️ and Code</sub>
+  <sub>Designed & Maintained by <b>Sumeet Rathod</b> • Built with ❤️, Python & Modern Web Technologies</sub>
 </div>
