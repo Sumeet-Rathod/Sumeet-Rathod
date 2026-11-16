@@ -5,8 +5,8 @@
 
   <p align="center">
     <a href="https://github.com/Sumeet-Rathod"><img src="https://img.shields.io/badge/GitHub-Sumeet--Rathod-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:sumeetrathod@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/sumeet-rathod05"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:sumeet.rathod0507@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
   </p>
 </div>
@@ -73,8 +73,8 @@
 
 ### 🤝 Connect & Collaborate
 
-- 💼 **LinkedIn:** [linkedin.com/in/sumeet-rathod](https://www.linkedin.com/in/)
-- 📧 **Email:** [sumeetrathod@example.com](mailto:sumeetrathod@example.com)
+- 💼 **LinkedIn:** [linkedin.com/in/sumeet-rathod05](https://www.linkedin.com/in/sumeet-rathod05)
+- 📧 **Email:** [sumeet.rathod0507@outlook.com](mailto:sumeet.rathod0507@outlook.com)
 - 🌐 **GitHub:** [github.com/Sumeet-Rathod](https://github.com/Sumeet-Rathod)
 - 📍 **Location:** Ahmedabad, Gujarat, India
 
