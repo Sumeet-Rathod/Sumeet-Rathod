@@ -27,16 +27,31 @@
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Backend & APIs** | `Python 3.12+`, `FastAPI`, `Flask`, `Pydantic v2`, `RESTful APIs`, `JWT Auth`, `Bcrypt` |
-| **Frontend & UI** | `Streamlit`, `React 18`, `JavaScript (ES6+)`, `Vite`, `Tailwind CSS`, `HTML5 / CSS3`, `Recharts` |
-| **Databases & Cache** | `MongoDB (Motor Async)`, `SQLite`, `Redis`, `PostgreSQL`, `SQL Server`, `Firebase / Firestore` |
-| **AI / ML & Analytics** | `TensorFlow / Keras`, `Scikit-learn`, `OpenCV (Emotion & Face Recognition)`, `Facebook Prophet`, `VADER NLP`, `SHAP`, `Pandas`, `NumPy` |
+| **Backend & APIs** | `Python 3.12+`, `FastAPI`, `Node.js 20`, `Express.js`, `Flask`, `Pydantic v2`, `RESTful APIs`, `JWT Auth`, `Bcrypt` |
+| **Frontend & UI** | `React 18`, `Vite`, `Tailwind CSS`, `Streamlit`, `JavaScript (ES6+)`, `Recharts`, `react-force-graph-2d`, `Socket.IO Client` |
+| **Databases & Cache** | `MongoDB (Mongoose & Motor Async)`, `SQLite`, `Redis`, `PostgreSQL`, `SQL Server`, `Firebase / Firestore` |
+| **AI / ML & Analytics** | `Scikit-learn (Isolation Forest)`, `XGBoost`, `SHAP (TreeExplainer)`, `NetworkX (Graph Analytics)`, `TensorFlow / Keras`, `OpenCV`, `Facebook Prophet`, `Pandas`, `NumPy` |
 | **DevOps & Architecture** | `Docker`, `Docker Compose`, `Celery Beat`, `Git / GitHub`, `Linux / PowerShell`, `Nginx` |
 | **Automation & RPA** | `UiPath Studio`, `OpenPyXL`, `Headless Automation`, `Robotic Process Automation` |
 
 ---
 
 ### 🚀 Flagship & Featured Projects
+
+#### 🌟 [DebtGraph](https://github.com/Sumeet-Rathod/debtgraph) — Intelligent Expense Intelligence & Graph Fraud Detection System
+> **Final-Year MCA Capstone Project** • *React 18 • Node.js • Express • Python 3.11 • FastAPI • Isolation Forest • XGBoost • SHAP • NetworkX • MongoDB • Docker*
+- **Multi-Tenant SaaS Architecture:** Complete multi-company enterprise expense platform with strict cryptographic company data isolation and 3-tier Role-Based Access Control (`admin`, `manager`, `user`).
+- **Dual-Engine ML Fraud Scoring:** Hybrid unsupervised Isolation Forest anomaly detection combined with supervised XGBoost classifier to compute real-time calibrated risk scores (0–100) on high-frequency transactions.
+- **Explainable AI (XAI):** SHAP (SHapley Additive exPlanations) TreeExplainer calculating exact local feature attributions in probability space, visualized through interactive diverging contribution charts and plain-English natural language summaries.
+- **NetworkX Graph Intelligence:** Graph relationship engine modeling employee-vendor-category multi-partite graphs, computing degree anomalies, velocity spikes, cyclic round-trips, and collusion ring structures.
+- **Real-Time Guardrails & Telemetry:** Dynamic department budget threshold monitoring, multi-tier manager approval & admin escalation queues, live Socket.IO telemetry, and human-in-the-loop ML model feedback retraining.
+
+#### 🌟 [TransitOps](https://github.com/Sumeet-Rathod/Transitops) — Smart Fleet & Transport Operations Management Platform
+> **Enterprise Smart Logistics Platform** • *React 18 • Node.js • Express • MongoDB • Socket.IO • Leaflet / OpenStreetMap • Recharts • Tailwind CSS*
+- **End-to-End Fleet Management:** Comprehensive transport platform managing multi-depot fleet operations, vehicle status tracking, driver allocations, and maintenance lifecycle scheduling.
+- **Live Dispatch & Real-Time Tracking:** Dynamic trip dispatch workflows, route optimization tracking, and automated trip status state machines.
+- **Fuel & Expense Analytics:** Telemetry monitoring for vehicle fuel consumption, maintenance cost tracking, operational expense reporting, and predictive maintenance alerts.
+- **Role-Based Operations Console:** Strict role-based access control (Admin, Fleet Manager, Dispatcher, Driver) with live KPI dashboards, inspection logs, and instant operational notifications.
 
 #### 🌟 [Face Emotion Recognition Using CNN](https://github.com/Sumeet-Rathod/face-emotion-recognition-cnn) — Real-Time Deep Learning Computer Vision System
 > **Advanced ML & Deep Learning Capstone** • *Python 3.12 • TensorFlow / Keras • OpenCV • Streamlit • Scikit-learn • Matplotlib • Seaborn*
