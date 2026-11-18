@@ -28,15 +28,22 @@
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
 | **Backend & APIs** | `Python 3.12+`, `FastAPI`, `Flask`, `Pydantic v2`, `RESTful APIs`, `JWT Auth`, `Bcrypt` |
-| **Frontend & UI** | `React 18`, `JavaScript (ES6+)`, `Vite`, `Tailwind CSS`, `HTML5 / CSS3`, `Recharts` |
+| **Frontend & UI** | `Streamlit`, `React 18`, `JavaScript (ES6+)`, `Vite`, `Tailwind CSS`, `HTML5 / CSS3`, `Recharts` |
 | **Databases & Cache** | `MongoDB (Motor Async)`, `SQLite`, `Redis`, `PostgreSQL`, `SQL Server`, `Firebase / Firestore` |
-| **AI / ML & Analytics** | `Scikit-learn (RandomForest)`, `Facebook Prophet`, `OpenCV (Aesthetics)`, `VADER NLP`, `SHAP`, `Pandas`, `NumPy` |
+| **AI / ML & Analytics** | `TensorFlow / Keras`, `Scikit-learn`, `OpenCV (Emotion & Face Recognition)`, `Facebook Prophet`, `VADER NLP`, `SHAP`, `Pandas`, `NumPy` |
 | **DevOps & Architecture** | `Docker`, `Docker Compose`, `Celery Beat`, `Git / GitHub`, `Linux / PowerShell`, `Nginx` |
 | **Automation & RPA** | `UiPath Studio`, `OpenPyXL`, `Headless Automation`, `Robotic Process Automation` |
 
 ---
 
 ### 🚀 Flagship & Featured Projects
+
+#### 🌟 [Face Emotion Recognition Using CNN](https://github.com/Sumeet-Rathod/face-emotion-recognition-cnn) — Real-Time Deep Learning Computer Vision System
+> **Advanced ML & Deep Learning Capstone** • *Python 3.12 • TensorFlow / Keras • OpenCV • Streamlit • Scikit-learn • Matplotlib • Seaborn*
+- **4-Block CNN Architecture:** 4 convolutional blocks with Batch Normalization, Max Pooling, and spatial Dropout regularizers trained on 35,887 FER2013 benchmark images across 7 emotion categories (Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise).
+- **Class Balancing & Augmentation:** Automated scikit-learn class weight balancing to address extreme skew (e.g. disgust category) and dynamic rotation, zoom, shift, and flip augmentation pipeline.
+- **Real-Time Webcam Analysis:** OpenCV Haar Cascade face detection with 5-frame rolling average prediction stabilization and dynamic multi-emotion probability telemetry HUD.
+- **Multi-Tab Streamlit Web Application:** Interactive dashboard featuring live webcam selfie capture, photo upload expression analysis, and complete diagnostic evaluation reports (confusion matrix heatmap, per-class accuracy, loss curves).
 
 #### 🌟 [ContentIQ](https://github.com/Sumeet-Rathod/ContentIQ) — AI Multi-Tenant Social Media Scheduling & Performance Platform
 > **Master's Capstone Project** • *Python 3.12 • FastAPI • React 18 • MongoDB • Redis • Celery • OpenCV • Facebook Prophet • Scikit-learn • Docker*
