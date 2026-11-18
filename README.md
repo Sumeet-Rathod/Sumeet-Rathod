@@ -13,7 +13,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨💻 About Me
 
 - 🎓 **Education:** Final-Year **Integrated Master of Computer Applications (iMCA)** at **Faculty of Computer Applications & IT (FCAIT), GLS University**, Ahmedabad.
 - 💡 **Core Expertise:** Production Full-Stack Development, Applied Machine Learning, Multi-Tenant SaaS Architecture, Computer Vision, and Enterprise RPA Automation.
@@ -29,7 +29,7 @@
 | :--- | :--- |
 | **Backend & APIs** | `Python 3.12+`, `FastAPI`, `Flask`, `Pydantic v2`, `RESTful APIs`, `JWT Auth`, `Bcrypt` |
 | **Frontend & UI** | `React 18`, `JavaScript (ES6+)`, `Vite`, `Tailwind CSS`, `HTML5 / CSS3`, `Recharts` |
-| **Databases & Cache** | `MongoDB (Motor Async)`, `SQLite`, `Redis`, `PostgreSQL`, `SQL Server` |
+| **Databases & Cache** | `MongoDB (Motor Async)`, `SQLite`, `Redis`, `PostgreSQL`, `SQL Server`, `Firebase / Firestore` |
 | **AI / ML & Analytics** | `Scikit-learn (RandomForest)`, `Facebook Prophet`, `OpenCV (Aesthetics)`, `VADER NLP`, `SHAP`, `Pandas`, `NumPy` |
 | **DevOps & Architecture** | `Docker`, `Docker Compose`, `Celery Beat`, `Git / GitHub`, `Linux / PowerShell`, `Nginx` |
 | **Automation & RPA** | `UiPath Studio`, `OpenPyXL`, `Headless Automation`, `Robotic Process Automation` |
@@ -44,6 +44,12 @@
 - **Multi-Tenant Data Isolation:** Cryptographically isolated tenant workspaces with 3-tier Role-Based Access Control (`admin`, `editor`, `client`).
 - **Computer Vision & Forecasting:** OpenCV headless thumbnail aesthetics scoring (Laplacian sharpness, contrast, color saturation) and Facebook Prophet 30-day time-series follower forecasting with 80% confidence intervals.
 - **Enterprise Resilience:** Celery Beat background scheduler with sandbox publisher adapter, Redis caching with offline fallbacks, and 22/22 passing Pytest automated test cases.
+
+#### 🌟 [SmartServe](https://github.com/Sumeet-Rathod/smartserve) — Full-Stack Service Booking Platform (Urban Company for India)
+> *React 18 • Vite • Tailwind CSS • Firebase • Cloud Firestore • Firebase Auth*
+- **On-Demand Home Services:** Full-stack service marketplace connecting customers with verified local service professionals across India.
+- **Real-Time Booking & Scheduling:** Dynamic service catalog, multi-service cart management, interactive appointment booking, and live order tracking.
+- **Modern Cloud Architecture:** Responsive mobile-first UI built with React 18 and Tailwind CSS, backed by Firebase Authentication and Cloud Firestore for real-time data synchronization.
 
 #### 🌟 [CareerFit-Tracker](https://github.com/Sumeet-Rathod/CareerFit-Tracker) — Enterprise RPA Job Harvesting & Fit Scoring Platform
 > *Python • Flask • UiPath Studio • SQLite • REST APIs • OpenPyXL*
