@@ -46,6 +46,14 @@
 - **NetworkX Graph Intelligence:** Graph relationship engine modeling employee-vendor-category multi-partite graphs, computing degree anomalies, velocity spikes, cyclic round-trips, and collusion ring structures.
 - **Real-Time Guardrails & Telemetry:** Dynamic department budget threshold monitoring, multi-tier manager approval & admin escalation queues, live Socket.IO telemetry, and human-in-the-loop ML model feedback retraining.
 
+#### 🌟 [EventFlow](https://github.com/Sumeet-Rathod/event-management-system) — Centralized Event Management Company & Operations Workflow Platform
+> **Enterprise Event Management & Operations System** • *Python 3.13 • Django Framework • SQLite3 • Bootstrap 5 • JavaScript • Chart.js • Django Auth*
+- **Role-Based Multi-Portal Architecture:** 4 dedicated role-governed workspaces (Admin, Event Staff, Vendor & Client) enforcing granular permission boundaries and Django PBKDF2 authentication.
+- **Client Inquiries & Requirement Engine:** End-to-end client onboarding, customized event requirement intake, automated quote/budget estimation, and real-time event status tracking.
+- **Operational Event Workflow & Milestones:** Centralized planning lifecycle engine covering venue booking, guest capacity, multi-stage milestone tracking, and dynamic interactive Gantt/timeline visualizers.
+- **Vendor & Staff Task Orchestration:** Delegated work-order allocation system for third-party vendors (catering, AV/sound, decor, photography) with live progress reporting, task sign-offs, and staff coordination.
+- **Executive Reporting & Interactive Analytics:** Comprehensive analytics dashboard utilizing Chart.js for revenue vs. expense tracking, event category breakdowns, vendor SLA turnaround rates, and exportable audit reports.
+
 #### 🌟 [TransitOps](https://github.com/Sumeet-Rathod/Transitops) — Smart Fleet & Transport Operations Management Platform
 > **Enterprise Smart Logistics Platform** • *React 18 • Node.js • Express • MongoDB • Socket.IO • Leaflet / OpenStreetMap • Recharts • Tailwind CSS*
 - **End-to-End Fleet Management:** Comprehensive transport platform managing multi-depot fleet operations, vehicle status tracking, driver allocations, and maintenance lifecycle scheduling.
