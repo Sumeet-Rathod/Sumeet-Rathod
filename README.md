@@ -46,13 +46,13 @@
 - **NetworkX Graph Intelligence:** Graph relationship engine modeling employee-vendor-category multi-partite graphs, computing degree anomalies, velocity spikes, cyclic round-trips, and collusion ring structures.
 - **Real-Time Guardrails & Telemetry:** Dynamic department budget threshold monitoring, multi-tier manager approval & admin escalation queues, live Socket.IO telemetry, and human-in-the-loop ML model feedback retraining.
 
-#### 🌟 [EventFlow](https://github.com/Sumeet-Rathod/event-management-system) — Centralized Event Management Company & Operations Workflow Platform
-> **Enterprise Event Management & Operations System** • *Python 3.13 • Django Framework • SQLite3 • Bootstrap 5 • JavaScript • Chart.js • Django Auth*
-- **Role-Based Multi-Portal Architecture:** 4 dedicated role-governed workspaces (Admin, Event Staff, Vendor & Client) enforcing granular permission boundaries and Django PBKDF2 authentication.
-- **Client Inquiries & Requirement Engine:** End-to-end client onboarding, customized event requirement intake, automated quote/budget estimation, and real-time event status tracking.
-- **Operational Event Workflow & Milestones:** Centralized planning lifecycle engine covering venue booking, guest capacity, multi-stage milestone tracking, and dynamic interactive Gantt/timeline visualizers.
-- **Vendor & Staff Task Orchestration:** Delegated work-order allocation system for third-party vendors (catering, AV/sound, decor, photography) with live progress reporting, task sign-offs, and staff coordination.
-- **Executive Reporting & Interactive Analytics:** Comprehensive analytics dashboard utilizing Chart.js for revenue vs. expense tracking, event category breakdowns, vendor SLA turnaround rates, and exportable audit reports.
+#### 🌟 [EventFlow (EMCS)](https://github.com/Sumeet-Rathod/event-management-system) — Production Event Management Company & Operations System
+> **Production-Grade Event Operations Platform** • *Python 3.13 • Django 6.0 • SQLite3 • Bootstrap 5.3 • Vanilla JavaScript Fetch API • Chart.js • FullCalendar • Django Signals*
+- **Role-Based Multi-Portal Architecture:** 4 dedicated role-governed portals (`ADMIN`, `STAFF`, `CLIENT`, `VENDOR`) with automatic login dispatching, strict role decorators (`@role_required`), and vendor administrative approval gating.
+- **Client Requirement Intake & Live Tracker:** Structured event requirement collection, status workflow (`PENDING` → `APPROVED` → `PLANNING` → `IN_PROGRESS` → `COMPLETED`), visual vertical milestones, and post-event 5-star rating reviews.
+- **Milestone Planning & Auto-Calculated Progress:** Staff event lifecycle coordination with milestone task breakdown, vendor work order allocation, overdue/due-soon deadline alerts, and auto-calculated event progress percentage upon vendor task updates.
+- **Real-Time Polling Telemetry (Zero WebSockets):** Low-overhead, high-efficiency JavaScript Fetch API polling for unread navbar notification badges (10s), live coordinator-client message threads (5s), and dashboard operational counters (15s).
+- **Executive BI & Export Engine:** Interactive Chart.js monthly volume & revenue trajectory analytics, vendor SLA performance ranking, one-click CSV data exports, and print-ready executive briefing sheets.
 
 #### 🌟 [TransitOps](https://github.com/Sumeet-Rathod/Transitops) — Smart Fleet & Transport Operations Management Platform
 > **Enterprise Smart Logistics Platform** • *React 18 • Node.js • Express • MongoDB • Socket.IO • Leaflet / OpenStreetMap • Recharts • Tailwind CSS*
