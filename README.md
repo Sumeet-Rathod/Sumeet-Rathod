@@ -1,13 +1,13 @@
 # Hi there, I'm Sumeet Rathod 👋
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=1E3A8A&center=true&vcenter=true&width=620&lines=iMCA+Graduate+%7C+Software+%26+AI+Systems+Engineer;Full-Stack+Web+%26+Multi-Tenant+SaaS+Architect;Python%2C+FastAPI%2C+React%2C+MongoDB+%26+Docker;Machine+Learning%2C+Prophet+%26+Computer+Vision" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=620&lines=iMCA+Graduate+%7C+Software+%26+AI+Systems+Engineer;Full-Stack+Web+%26+Multi-Tenant+SaaS+Architect;Python%2C+FastAPI%2C+React%2C+MongoDB+%26+Docker;Machine+Learning%2C+Prophet+%26+Computer+Vision" alt="Typing SVG" /></a>
 
   <p align="center">
     <a href="https://github.com/Sumeet-Rathod"><img src="https://img.shields.io/badge/GitHub-Sumeet--Rathod-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/sumeet-rathod05"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:sumeet.rathod0507@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
+    <a href="https://maps.google.com/?q=Ahmedabad,+Gujarat,+India"><img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white" /></a>
   </p>
 </div>
 
@@ -98,7 +98,7 @@
 ### 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumeet-Rathod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumeet-Rathod&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeet-Rathod&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
