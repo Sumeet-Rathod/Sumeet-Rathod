@@ -87,10 +87,11 @@
 - Dual-portal architecture: Candidate Job Discovery Portal & Restricted Placement Administration Console.
 - Formula-driven Excel tracking engine with dynamic validation dropdowns and automated notification digests.
 
-#### 🔐 Secure Password Manager & Vault
-> *Python • Cryptography • SQLite • Tkinter*
-- Desktop credential security vault implementing AES-256 / Fernet symmetric key encryption and PBKDF2 HMAC-SHA256 master key derivation.
-- Built-in password strength evaluation, automated entropy scoring, and secure local encrypted storage.
+#### 🌟 [MoneyEase](https://github.com/Sumeet-Rathod/moneyease) — AMFI-Registered Wealth Management, Goal Planning & Customer Onboarding Platform
+> *Python 3.12 • FastAPI • Flutter • Motor / MongoDB • Pydantic v2 • JWT Auth • Docker*
+- **AMFI-Compliant Advisory & KYC Onboarding:** End-to-end investor onboarding workflow with AMFI compliance guardrails, automated risk-profile suitability scoring, and digital verification.
+- **Goal-Based Wealth Architecture:** Multi-horizon goal planning engine calculating compounding projections, SIP trajectories, shortfall risk analytics, and dynamic rebalancing recommendations.
+- **Cross-Platform Responsive Stack:** Asynchronous FastAPI backend powered by Motor/MongoDB and JWT security, coupled with a reactive Flutter client for unified web and mobile experiences.
 
 ---
 
